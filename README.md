@@ -6,3 +6,6 @@
 - https://en.cppreference.com/w/cpp/algorithm/for_each
 - https://en.cppreference.com/w/cpp/language/lambda
 - https://cplusplus.com/reference/vector/vector/
+- https://cplusplus.com/reference/algorithm/merge/
+- https://cplusplus.com/reference/algorithm/unique/
+- https://en.cppreference.com/w/cpp/iterator/back_inserter
