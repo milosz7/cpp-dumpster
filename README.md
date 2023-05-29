@@ -9,3 +9,7 @@
 - https://cplusplus.com/reference/algorithm/merge/
 - https://cplusplus.com/reference/algorithm/unique/
 - https://en.cppreference.com/w/cpp/iterator/back_inserter
+- https://cplusplus.com/reference/sstream/istringstream/
+- https://en.cppreference.com/w/cpp/algorithm/sort
+- https://www.geeksforgeeks.org/friend-class-function-cpp/
+- https://en.cppreference.com/w/cpp/language/templates
